@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdvancedStudyCode</string>
+
+
+    <!--    직접 만든 string code    -->
+    <string name="hello">안녕하세요.</string>
+
+</resources>

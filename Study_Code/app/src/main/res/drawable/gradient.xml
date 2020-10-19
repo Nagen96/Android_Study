@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--shape로 모양지정-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--    gradient 효과-->
+    <!--    angle로 각도 지정-->
+    <gradient
+        android:angle="180"
+        android:centerColor="#AC3EF1"
+        android:endColor="#218EEF"
+        android:startColor="#FFAB4C" />
+
+    <!--    stroke 효과: 테두리 생성-->
+    <stroke
+        android:width="30dp"
+        android:color="#ffffff" />
+
+    <!--    corners 효과: 테두리를 깎는다-->
+    <corners android:radius="30dp" />
+</shape>

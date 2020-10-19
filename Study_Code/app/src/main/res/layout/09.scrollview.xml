@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:ignore="MissingDefaultResource">
+
+    <!--    스크롤뷰는 자식 뷰를 하나만 가질 수 있다-->
+    <!--    fillViewport를 항상 true 값으로 명시해야 한다-->
+    <!--    scrollbars는 스크롤바 UI의 유무를 나타낸다-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@color/colorAccent" />
+
+            <TextView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@android:color/holo_orange_dark" />
+
+            <TextView
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:background="@android:color/holo_red_light" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingDefaultResource">
+
+    <!--    "id"라는 키워드로 뷰에 이름지정-->
+    <TextView
+        android:id="@+id/view1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:background="@color/colorAccent" />
+
+    <!--    현재위치로부터 id=view1의 오른쪽으로 이동-->
+    <TextView
+        android:id="@+id/view2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_toRightOf="@+id/view1"
+        android:background="@android:color/holo_green_light" />
+
+    <!--    현재위치로부터 id=view1의 위로 이동-->
+    <TextView
+        android:id="@+id/view3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/view1"
+        android:background="@android:color/holo_green_light" />
+
+    <!--    현재위치로부터 id=veiw1의 아래로 이동-->
+    <TextView
+        android:id="@+id/view4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/view1"
+        android:background="@android:color/holo_green_light" />
+
+</RelativeLayout>

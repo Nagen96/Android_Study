@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingDefaultResource">
+
+    <!--    부모를 기준으로 배치하는 법을 공부-->
+
+    <!--    부모의 왼쪽으로 배치-->
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:background="#A7F874"
+        android:text="1"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <!--    현재위치의 수평중심으로 이동-->
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:background="#A7F874"
+        android:text="2"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <!--    부모의 오른쪽으로 배치-->
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:background="#A7F874"
+        android:text="3"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <!--    현재위치의 수직중심으로 이동-->
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        android:background="#A7F874"
+        android:text="4"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <!--    부모의 정가운데로 배치-->
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:background="#A7F874"
+        android:text="5"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <!--    부모의 바닥으로 배치-->
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#A7F874"
+        android:text="6"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+</RelativeLayout>

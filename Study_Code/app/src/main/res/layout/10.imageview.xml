@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:ignore="MissingDefaultResource">
+
+    <!--    ImageView로 소스를 가져올 때는 scr를 사용하여 @로 주소를 준다-->
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@color/colorAccent"
+        android:src="@drawable/dog" />
+
+    <!--    채우기 효과는 scaleType="centerCrop"-->
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@color/colorAccent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/dog" />
+
+</LinearLayout>

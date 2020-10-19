@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--    margin: 부모 뷰로부터 떨어질 거리-->
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="100dp"
+        android:background="@color/colorAccent"
+        android:text="안녕하세요" />
+
+    <!--    그냥 margin은 상하좌우에 전부 margin 값을 준 것과 동일-->
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="200dp"
+        android:background="@color/colorAccent" />
+
+    <!--    padding: 자식 뷰를 떨어뜨릴 거리-->
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/colorAccent"
+        android:paddingLeft="10dp"
+        android:paddingTop="30dp"
+        android:text="안녕하세요" />
+
+</LinearLayout>

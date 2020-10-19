@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/center"
+        android:layout_toLeftOf="@+id/center"
+        android:background="#F33535" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/center"
+        android:layout_centerHorizontal="true"
+        android:background="#F18A1E" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/center"
+        android:layout_toRightOf="@+id/center"
+        android:background="#F4CE11" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/center"
+        android:background="#ACF446" />
+
+    <TextView
+
+        android:id="@+id/center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:background="#36B6FA" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/center"
+        android:background="#0B2267" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/center"
+        android:layout_toLeftOf="@+id/center"
+        android:background="#7E3AFF" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/center"
+        android:layout_centerHorizontal="true"
+        android:background="#B44AED" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/center"
+        android:layout_toRightOf="@+id/center"
+        android:background="#EC2782" />
+
+</RelativeLayout>

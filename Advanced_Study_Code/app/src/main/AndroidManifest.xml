@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.advancedstudycode">
+    <!-- 인터넷 퍼미션 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!--  카메라 퍼미션  -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Act19_Permission">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Act18e2_Retrofit">
+
+        </activity>
+        <activity android:name=".Act18_Network"></activity>
+        <activity android:name=".Act17_Async" />
+        <activity android:name=".Act16e1_Realm" />
+        <activity android:name=".Act16_SharedPreference" />
+        <activity android:name=".Act15_TabPager2" />
+        <activity android:name=".Act15_TabPager" />
+        <activity android:name=".Act14e1_PhoneBookWithRecyclerView" />
+        <activity android:name=".Act14_RecyclerView" />
+        <activity android:name=".Act13_ListView" />
+        <activity android:name=".Act12e2_PhoneBookDetail" />
+        <activity android:name=".Act12e1_PhoneBook" />
+        <activity android:name=".Act12_AddView" />
+        <activity android:name=".Act11_Library" />
+        <activity android:name=".Act10_Thread" />
+        <activity android:name=".Act09_Context" />
+        <activity android:name=".Act08_Resource" />
+        <activity android:name=".Act07_lateinit" />
+        <activity android:name=".Act06_NullSafety" />
+        <activity android:name=".Act05_Fragment" />
+        <activity android:name=".Act03e1_OpenInternet" />
+        <activity android:name=".Act03_Intent3" />
+        <activity android:name=".Act02e1_Calculator" />
+        <activity android:name=".Act03_Intent2" />
+        <activity android:name=".Act03_Intent1" />
+        <activity android:name=".Act02_Listener" />
+        <activity android:name=".Act01_Activity" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
