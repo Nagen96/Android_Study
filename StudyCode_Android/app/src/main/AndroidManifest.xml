@@ -16,11 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Act19_Permission">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".Act18e2_Retrofit">
 
@@ -35,7 +31,13 @@
         <activity android:name=".Act14_RecyclerView" />
         <activity android:name=".Act13_ListView" />
         <activity android:name=".Act12e2_PhoneBookDetail" />
-        <activity android:name=".Act12e1_PhoneBook" />
+        <activity android:name=".Act12e1_PhoneBook" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".Act12_AddView" />
         <activity android:name=".Act11_Library" />
         <activity android:name=".Act10_Thread" />

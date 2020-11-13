@@ -16,6 +16,7 @@ class MasterApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
+
         Stetho.initializeWithDefaults(this)
         creatRetrofit()
         //chrome://inspect/#devices
@@ -33,10 +34,12 @@ class MasterApplication : Application() {
                 // null이 아닌 경우 let부분 이하를 실행한다.
                 // token은 getUserToken()의 리턴 값
                 getUserToken()?.let { token ->
+
                     // original에 잡아둔 통신을 개조함 -> header를 붙임
                     // POSTMAN의 서버주가 설정한 통신방식에 따른다. -> "Authorization", "token " + token
                     val request = original.newBuilder()
                         .header("Authorization", "token " + token).build()
+
                     // 개조한 통신을 내보냄
                     it.proceed(request)
                 }
