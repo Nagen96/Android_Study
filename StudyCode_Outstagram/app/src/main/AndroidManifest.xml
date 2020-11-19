@@ -17,13 +17,14 @@
         <activity android:name=".OutStagramUploadActivity"></activity>
         <activity android:name=".OutStagramMyPostListActivity"></activity>
         <activity android:name=".OutstagramPostListActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".EmailSignupActivity">
+        <activity android:name=".LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".EmailSignupActivity">
         </activity>
         <activity android:name=".MainActivity">
 

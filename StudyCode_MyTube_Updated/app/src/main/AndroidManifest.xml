@@ -3,8 +3,6 @@
     package="com.example.myapplication">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name=".MasterApplication"
@@ -13,9 +11,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/youtube"
         android:supportsRtl="true"
-        android:theme="@style/MyTheme"
+        android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".MytubeDetailActivity" />
+        <activity android:name=".SignInActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".MytubeDetailActivity">
+
+        </activity>
         <activity android:name=".MyTubeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
