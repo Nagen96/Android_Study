@@ -50,7 +50,12 @@ class MyTubeActivity : AppCompatActivity() {
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         val inflater: MenuInflater = menuInflater
-        inflater.inflate(R.menu.actionbar_menu, menu)
+        val logoutInflater: MenuInflater = menuInflater
+        if ((application as MasterApplication).checkIsLogin()) {
+            logoutInflater.inflate(R.menu.logout_menu, menu)
+        } else {
+            inflater.inflate(R.menu.actionbar_menu, menu)
+        }
         return true
     }
 
@@ -73,20 +78,21 @@ class MyTubeActivity : AppCompatActivity() {
         return super.onOptionsItemSelected(item);
     }
 
-    override fun onPrepareOptionsMenu(menu: Menu?): Boolean {
-
-        val singinMenu = menu?.findItem(R.id.signin_menu)
-        val logoutMenu = menu?.findItem(R.id.logout_menu)
-
-        if((application as MasterApplication).checkIsLogin()) {
-            singinMenu?.isEnabled = false
-            logoutMenu?.isEnabled = true
-        } else {
-            singinMenu?.isEnabled = true
-            logoutMenu?.isEnabled = false
-        }
-        return true
-    }
+//    #Old Version.
+//    override fun onPrepareOptionsMenu(menu: Menu?): Boolean {
+//
+//        val singinMenu = menu?.findItem(R.id.signin_menu)
+//        val logoutMenu = menu?.findItem(R.id.logout_menu)
+//
+//        if ((application as MasterApplication).checkIsLogin()) {
+//            singinMenu?.isEnabled = false
+//            logoutMenu?.isEnabled = true
+//        } else {
+//            singinMenu?.isEnabled = true
+//            logoutMenu?.isEnabled = false
+//        }
+//        return true
+//    }
 
     class MytubeAdapter(
         var youtubeList: ArrayList<Youtube>,
