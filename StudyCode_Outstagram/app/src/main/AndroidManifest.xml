@@ -16,15 +16,17 @@
         android:theme="@style/AppTheme">
         <activity android:name=".OutStagramUploadActivity"></activity>
         <activity android:name=".OutStagramMyPostListActivity"></activity>
-        <activity android:name=".OutstagramPostListActivity" />
+        <activity android:name=".OutstagramPostListActivity" >
+
+        </activity>
         <activity android:name=".LoginActivity" >
+        </activity>
+        <activity android:name=".EmailSignupActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name=".EmailSignupActivity">
         </activity>
         <activity android:name=".MainActivity">
 

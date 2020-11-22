@@ -12,7 +12,6 @@ import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
-
 class EmailSignupActivity : AppCompatActivity() {
 
     lateinit var usernameView: EditText
@@ -86,11 +85,11 @@ class EmailSignupActivity : AppCompatActivity() {
     }
 
     fun initView(activity: Activity) {
-        usernameView = activity.findViewById(R.id.username_inputbox)
+        usernameView = activity.findViewById(R.id.signup_username_inputbox)
         userPassword1View = activity.findViewById(R.id.password1_inputbox)
         userPassword2View = activity.findViewById(R.id.password2_inputbox)
         registerBtn = activity.findViewById(R.id.register)
-        loginBtn = activity.findViewById(R.id.login)
+        loginBtn = activity.findViewById(R.id.goto_login)
     }
 
     fun getUserName(): String {

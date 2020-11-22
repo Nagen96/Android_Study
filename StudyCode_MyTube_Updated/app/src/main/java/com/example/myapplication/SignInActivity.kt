@@ -4,6 +4,7 @@ import android.app.Activity
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_sign_in.*
@@ -36,11 +37,17 @@ class SignInActivity : AppCompatActivity() {
 
                             Toast.makeText(this@SignInActivity, "로그인 하셨습니다.", Toast.LENGTH_LONG)
                                 .show()
+                            this@SignInActivity.finish()
+                            startActivity(Intent(this@SignInActivity, MyTubeActivity::class.java))
+                        } else {
+                            Toast.makeText(this@SignInActivity, "로그인에 실패했습니다.", Toast.LENGTH_LONG)
+                                .show()
                         }
                     }
 
                     override fun onFailure(call: Call<User>, t: Throwable) {
-
+                        Toast.makeText(this@SignInActivity, "로그인에 실패했습니다.", Toast.LENGTH_LONG)
+                            .show()
                     }
                 })
         }

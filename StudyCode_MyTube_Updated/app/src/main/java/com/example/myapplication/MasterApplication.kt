@@ -49,7 +49,7 @@ class MasterApplication : Application() {
             .build()
 
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://220.94.178.76:8080")
+            .baseUrl("http://222.99.45.40:8080")
             .addConverterFactory(GsonConverterFactory.create())
             .client(client)
             .build()

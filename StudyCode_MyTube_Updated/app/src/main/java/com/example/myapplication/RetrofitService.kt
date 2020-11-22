@@ -10,10 +10,18 @@ interface RetrofitService {
     @GET("video/stream/")
     fun getYoutubeList(): Call<ArrayList<Youtube>>
 
-    @FormUrlEncoded
     @POST("login/")
+    @FormUrlEncoded
     fun requestLogin(
         @Field("userid") userID: String,
         @Field("userpw") userPW: String
+    ): Call<User>
+
+    @POST("signup/")
+    @FormUrlEncoded
+    fun register(
+        @Field("userid") userID: String,
+        @Field("userpw") userPW: String,
+        @Field("userpc") userPC: String
     ): Call<User>
 }

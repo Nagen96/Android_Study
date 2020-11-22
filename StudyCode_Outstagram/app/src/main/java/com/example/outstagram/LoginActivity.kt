@@ -6,9 +6,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import kotlinx.android.synthetic.main.activity_email_signup.login
-import kotlinx.android.synthetic.main.activity_email_signup.register
-import kotlinx.android.synthetic.main.activity_email_signup.username_inputbox
 import kotlinx.android.synthetic.main.activity_login.*
 import retrofit2.Call
 import retrofit2.Callback
@@ -20,13 +17,13 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        register.setOnClickListener {
+        goto_register.setOnClickListener {
             val intent = Intent(this, EmailSignupActivity::class.java)
             startActivity(intent)
         }
 
         login.setOnClickListener {
-            val username = username_inputbox.text.toString()
+            val username = login_username_inputbox.text.toString()
             val password = password_inputbox.text.toString()
             (application as MasterApplication).service.login(
                 username, password
