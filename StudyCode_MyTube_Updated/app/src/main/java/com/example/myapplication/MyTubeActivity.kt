@@ -1,6 +1,7 @@
 package com.example.myapplication
 
 import android.app.Activity
+import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import android.view.*
@@ -49,18 +50,42 @@ class MyTubeActivity : AppCompatActivity() {
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         val inflater: MenuInflater = menuInflater
-        inflater.inflate(R.menu.actionbarmenu, menu)
+        inflater.inflate(R.menu.actionbar_menu, menu)
         return true
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            R.id.signinmenu -> {
+            R.id.signin_menu -> {
                 val intent = Intent(this, SignInActivity::class.java)
                 this.startActivity(intent)
             }
+            R.id.logout_menu -> {
+                val sp = getSharedPreferences("login_sp", Context.MODE_PRIVATE)
+                val editor = sp.edit()
+                editor.putString("login_sp", "null")
+                editor.commit()
+                (application as MasterApplication).createRetrofit()
+                finish()
+                startActivity(Intent(this@MyTubeActivity, MyTubeActivity::class.java))
+            }
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    override fun onPrepareOptionsMenu(menu: Menu?): Boolean {
+
+        val singinMenu = menu?.findItem(R.id.signin_menu)
+        val logoutMenu = menu?.findItem(R.id.logout_menu)
+
+        if((application as MasterApplication).checkIsLogin()) {
+            singinMenu?.isEnabled = false
+            logoutMenu?.isEnabled = true
+        } else {
+            singinMenu?.isEnabled = true
+            logoutMenu?.isEnabled = false
+        }
+        return true
     }
 
     class MytubeAdapter(
