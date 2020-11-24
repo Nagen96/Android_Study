@@ -31,13 +31,13 @@
             android:layout_height="wrap_content">
 
             <EditText
-                android:id="@+id/commentText"
+                android:id="@+id/comment_edit_text"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"></EditText>
 
 
             <Button
-                android:id="@+id/sendbtn"
+                android:id="@+id/send_btn"
                 android:layout_width="60dp"
                 android:layout_height="match_parent"
                 android:layout_gravity="right"

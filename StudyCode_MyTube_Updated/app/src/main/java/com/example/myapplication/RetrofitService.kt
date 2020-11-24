@@ -24,4 +24,11 @@ interface RetrofitService {
         @Field("userpw") userPW: String,
         @Field("userpc") userPC: String
     ): Call<User>
+
+    @POST("comment/upload/")
+    @FormUrlEncoded
+    fun commentUpload(
+        @Field("token") token: String,
+        @Field("comment_text") commentText: String
+    ): Call<CommentOK>
 }

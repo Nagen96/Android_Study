@@ -66,10 +66,10 @@ class MyTubeActivity : AppCompatActivity() {
                 this.startActivity(intent)
             }
             R.id.logout_menu -> {
-                val sp = getSharedPreferences("login_sp", Context.MODE_PRIVATE)
-                val editor = sp.edit()
-                editor.putString("login_sp", "null")
-                editor.commit()
+                val tokenSP = getSharedPreferences("login_sp", Context.MODE_PRIVATE)
+                val tokenEditor = tokenSP.edit()
+                tokenEditor.putString("login_sp", "null")
+                tokenEditor.commit()
                 (application as MasterApplication).createRetrofit()
                 finish()
                 startActivity(Intent(this@MyTubeActivity, MyTubeActivity::class.java))

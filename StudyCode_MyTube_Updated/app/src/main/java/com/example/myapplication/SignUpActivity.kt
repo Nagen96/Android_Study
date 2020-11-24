@@ -3,13 +3,12 @@ package com.example.myapplication
 import android.app.Activity
 import android.content.Context
 import android.content.Intent
-import android.net.DnsResolver
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_sign_up.*
 import retrofit2.Call
 import retrofit2.Callback
@@ -84,10 +83,10 @@ class SignUpActivity : AppCompatActivity() {
     }
 
     fun saveUserToken(token: String, activity: Activity) {
-        val sp = activity.getSharedPreferences("login_sp", Context.MODE_PRIVATE)
-        val editor = sp.edit()
-        editor.putString("login_sp", token)
-        editor.commit()
+        val tokenSP = activity.getSharedPreferences("login_sp", Context.MODE_PRIVATE)
+        val tokenEditor = tokenSP.edit()
+        tokenEditor.putString("login_sp", token)
+        tokenEditor.commit()
     }
 
     fun initView(activity: Activity) {

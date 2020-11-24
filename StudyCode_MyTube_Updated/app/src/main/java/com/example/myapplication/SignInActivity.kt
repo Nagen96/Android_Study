@@ -54,9 +54,9 @@ class SignInActivity : AppCompatActivity() {
     }
 
     fun saveUserToken(token: String, activity: Activity) {
-        val sp = activity.getSharedPreferences("login_sp", Context.MODE_PRIVATE)
-        val editor = sp.edit()
-        editor.putString("login_sp", token)
-        editor.commit()
+        val tokenSP = activity.getSharedPreferences("login_sp", Context.MODE_PRIVATE)
+        val tokenEditor = tokenSP.edit()
+        tokenEditor.putString("login_sp", token)
+        tokenEditor.commit()
     }
 }
