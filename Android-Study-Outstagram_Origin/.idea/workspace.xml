@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e885d86d-66d6-40c8-81c9-f9d639ea58b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/androidTest/java/com/example/advancedstudycode/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act01_Activity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act02_Listener.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act02e1_Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act03_Intent1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act03_Intent2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act03_Intent3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act03e1_OpenInternet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act05_Fragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act05_FragmentOne.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act06_NullSafety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act07_lateinit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act08_Resource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act09_Context.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act10_Thread.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act11_Library.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act12_AddView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act12e1_PhoneBook.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act12e2_PhoneBookDetail.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act13_ListView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act14_RecyclerView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act14e1_PhoneBookWithRecyclerView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act15_Fragment1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act15_Fragment2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act15_Fragment3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act15_TabPager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act15_TabPager2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act16_SharedPreference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act16e1_Realm.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act16e1_School.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act17_Async.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act18_Network.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act18e1_PersonFromServer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act18e2_Retrofit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act18e2_RetrofitService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Act19_Permission.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/01.Activity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/02.Listener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/03-2.Context" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/03.Intent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/04.Task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/05.Fragment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/06.NullSafety" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/07.lateinit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/08.Resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/09.Context" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/10.Thread" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/11.Library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/12.AddView" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/13.ListView" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/14.RecyclerView" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/15.TabLayout, Pager" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/16.Database" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/17.Async" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/18.Network" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/Android/19.Permission" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/java/com/example/advancedstudycode/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-hdpi/back_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-hdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-hdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-hdpi/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-hdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-mdpi/back_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-mdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-mdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-mdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xhdpi/back_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xhdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xhdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xxhdpi/back_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xxhdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xxhdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xxhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xxxhdpi/back_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xxxhdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xxxhdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable-xxxhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable/gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable/radius.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable/solid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/drawable/stroke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/act05_fragment_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/act08_resource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/act12_item_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/act12e1_phonebook_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/act15_fragment_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/act15_fragment_three.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/act15_fragment_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/act18_person_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act01_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act02_listener.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act02e1_calculator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act03_intent1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act03_intent2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act03_intent3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act03e1_open_internet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act05_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act06_null_safety.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act07_lateinit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act08_resource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act09_context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act10_thread.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act11_library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act12_add_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act12e1_phone_book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act12e2_phone_book_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act13_list_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act14_recycler_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act14e1_phone_book_with_recycler_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act15_tab_pager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act15_tab_pager2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act16_shared_preference.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act16e1_realm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act17_async.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act18_network.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act18e2_retrofit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_act19_permission.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/app/src/test/java/com/example/advancedstudycode/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Android_Basic/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/androidTest/java/com/example/djangoretrofit2/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/java/com/example/djangoretrofit2/Login.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/java/com/example/djangoretrofit2/LoginService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/java/com/example/djangoretrofit2/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/app/src/test/java/com/example/djangoretrofit2/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-DjangoRetrofit2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/androidTest/java/com/example/studycode/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/00.Kotlin을 알아보자" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/01.Variable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/02.Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/03.Pratice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/04.Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/05.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/06.Operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/07.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/08.Control_Flow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/09.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/10.Control_Flow(2).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/11.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/12.Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/13.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/14.Collection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/15.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/16.Iterable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/17.Midterm.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/18.Class.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/19.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/20.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/21.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/22.Variable_range.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/23.Access_modifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/24.Pratice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/25.Inherit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/26.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/27.Interface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/28.Practice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/29.Generic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/30.Read_JAVA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/Kotlin/31.MyPractice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/java/com/example/studycode/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-hdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-hdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-hdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-mdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-mdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-mdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xhdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xhdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xxhdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xxhdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xxhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xxxhdpi/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xxxhdpi/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable-xxxhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable/gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/01.linear_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/02.linear_layout_practice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/03.relative_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/04.relative_layout2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/05.relative_layout_practice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/06.padding_margin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/07.frame_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/08.relative_layout_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/09.scrollview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/10.imageview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/11.practice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/app/src/test/java/com/example/studycode/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-Kotlin_Basic/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/SLACK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/java/com/example/myapplication/MasterApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/java/com/example/myapplication/MyTubeActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/java/com/example/myapplication/MytubeDetailActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/java/com/example/myapplication/RetrofitService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/java/com/example/myapplication/Youtube.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/drawable-hdpi/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/drawable-hdpi/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/drawable-hdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/drawable-mdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/drawable-xhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/drawable-xxhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/drawable-xxxhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/layout/activity_my_tube.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/layout/activity_mytube_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/layout/youtube_item_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-hdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-mdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xxhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/mipmap-xxxhdpi/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android-Study-MyTube_Origin/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/androidTest/java/com/example/advancedstudycode/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act01_Activity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act02_Listener.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act02e1_Calculator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act03_Intent1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act03_Intent2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act03_Intent3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act03e1_OpenInternet.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act05_Fragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act05_FragmentOne.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act06_NullSafety.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act07_lateinit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act08_Resource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act09_Context.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act10_Thread.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act11_Library.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act12_AddView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act12e1_PhoneBook.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act12e2_PhoneBookDetail.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act13_ListView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act14_RecyclerView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act14e1_PhoneBookWithRecyclerView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act15_Fragment1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act15_Fragment2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act15_Fragment3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act15_TabPager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act15_TabPager2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act16_SharedPreference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act16e1_Realm.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act16e1_School.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act17_Async.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act18_Network.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act18e1_PersonFromServer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act18e2_Retrofit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act18e2_RetrofitService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Act19_Permission.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/01.Activity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/02.Listener" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/03-2.Context" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/03.Intent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/04.Task" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/05.Fragment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/06.NullSafety" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/07.lateinit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/08.Resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/09.Context" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/10.Thread" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/11.Library" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/12.AddView" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/13.ListView" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/14.RecyclerView" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/15.TabLayout, Pager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/16.Database" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/17.Async" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/18.Network" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/Android/19.Permission" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/java/com/example/advancedstudycode/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-hdpi/back_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-hdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-hdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-hdpi/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-hdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-mdpi/back_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-mdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-mdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-mdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xhdpi/back_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xhdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xhdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xxhdpi/back_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xxhdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xxhdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xxxhdpi/back_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xxxhdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xxxhdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable-xxxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable/gradient.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable/radius.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable/solid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/drawable/stroke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/act05_fragment_one.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/act08_resource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/act12_item_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/act12e1_phonebook_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/act15_fragment_one.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/act15_fragment_three.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/act15_fragment_two.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/act18_person_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act01_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act02_listener.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act02e1_calculator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act03_intent1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act03_intent2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act03_intent3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act03e1_open_internet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act05_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act06_null_safety.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act07_lateinit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act08_resource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act09_context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act10_thread.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act11_library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act12_add_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act12e1_phone_book.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act12e2_phone_book_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act13_list_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act14_recycler_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act14e1_phone_book_with_recycler_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act15_tab_pager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act15_tab_pager2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act16_shared_preference.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act16e1_realm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act17_async.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act18_network.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act18e2_retrofit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_act19_permission.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/app/src/test/java/com/example/advancedstudycode/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/androidTest/java/com/example/djangoretrofit2/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/java/com/example/djangoretrofit2/Login.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/java/com/example/djangoretrofit2/LoginService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/java/com/example/djangoretrofit2/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/app/src/test/java/com/example/djangoretrofit2/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_DjangoRetrofit2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/androidTest/java/com/example/studycode/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/00.Kotlin을 알아보자" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/01.Variable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/02.Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/03.Pratice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/04.Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/05.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/06.Operator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/07.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/08.Control_Flow.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/09.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/10.Control_Flow(2).kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/11.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/12.Array.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/13.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/14.Collection.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/15.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/16.Iterable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/17.Midterm.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/18.Class.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/19.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/20.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/21.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/22.Variable_range.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/23.Access_modifier.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/24.Pratice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/25.Inherit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/26.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/27.Interface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/28.Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/29.Generic.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/30.Read_JAVA.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/Kotlin/31.MyPractice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/java/com/example/studycode/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-hdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-hdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-hdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-mdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-mdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-mdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xhdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xhdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xxhdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xxhdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xxxhdpi/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xxxhdpi/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable-xxxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable/gradient.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/01.linear_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/02.linear_layout_practice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/03.relative_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/04.relative_layout2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/05.relative_layout_practice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/06.padding_margin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/07.frame_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/08.relative_layout_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/09.scrollview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/10.imageview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/11.practice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/app/src/test/java/com/example/studycode/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Kotlin/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/SLACK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/java/com/example/myapplication/MasterApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/java/com/example/myapplication/MyTubeActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/java/com/example/myapplication/MytubeDetailActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/java/com/example/myapplication/RetrofitService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/java/com/example/myapplication/Youtube.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/drawable-hdpi/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/drawable-hdpi/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/drawable-hdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/drawable-mdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/drawable-xhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/drawable-xxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/drawable-xxxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/layout/activity_my_tube.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/layout/activity_mytube_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/layout/youtube_item_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-hdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-mdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/mipmap-xxxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Origin/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/SLACK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/CommentOK.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/MasterApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/MyTubeActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/MytubeDetailActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/RetrofitService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/SignInActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/SignUpActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/java/com/example/myapplication/Youtube.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/drawable-hdpi/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/drawable-hdpi/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/drawable-hdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/drawable-mdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/drawable-xhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/drawable-xxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/drawable-xxxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/layout/activity_my_tube.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/layout/activity_mytube_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/layout/activity_sign_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/layout/youtube_item_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/menu/actionbar_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/menu/logout_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-hdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-mdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/mipmap-xxxhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_MyTube_Updated/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/androidTest/java/com/example/outstagram/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/EmailSignupActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/LoginActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/MasterApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/OutStagramMyPostListActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/OutStagramPostListActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/OutStagramUploadActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/OutStagramUserInfo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/Post.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/Register.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/RetrofitService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/java/com/example/outstagram/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/layout/activity_email_signup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/layout/activity_out_stagram_my_post_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/layout/activity_out_stagram_post_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/layout/activity_out_stagram_upload.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/layout/activity_out_stagram_user_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/layout/outstagram_item_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/app/src/test/java/com/example/outstagram/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyCode_Outstagram/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ivkAJiSOvVxLSe7lXWYLvnNSTN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_23" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-19T16:33:51.307Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../android-adb/platform-tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Android_Django-Project-MyTube-Server" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1807774789">
+      <recent name="com.example.outstagram" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.outstagram" />
+    </key>
+    <key name="android.template.-865279451">
+      <recent name="com.example.outstagram" />
+    </key>
+    <key name="android.template.486922205">
+      <recent name="com.example.outstagram" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\android-workspace\Android_StudyCode\StudyCode_Outstagram\app\src\main\res\layout" />
+      <recent name="C:\workspace\android-workspace\Android_Study\StudyCode_Outstagram\app\src\main\java\com\example\outstagram" />
+      <recent name="C:\workspace\android-workspace\Android_Study\Outstagram\app\src\main\java\com\example\outstagram" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailSignupActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Outstagram.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.outstagram.EmailSignupActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Outstagram.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e885d86d-66d6-40c8-81c9-f9d639ea58b1" name="Default Changelist" comment="" />
+      <created>1602795307046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602795307046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="431" key="#PSD" timestamp="1605804360151">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="164" y="431" key="#PSD/0.0.2560.1400@0.0.2560.1400" timestamp="1605804360151" />
+    <state x="101" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605804389536">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="101" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605804389536" />
+    <state x="429" y="419" key="#com.intellij.ide.util.MemberChooser" timestamp="1605263459900">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="429" y="419" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605263459900" />
+    <state x="318" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605083626949">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="318" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605083626949" />
+    <state x="93" y="100" width="1094" height="1207" key="AVDManager" timestamp="1605809566157">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="93" y="100" width="1094" height="1207" key="AVDManager/0.0.2560.1400@0.0.2560.1400" timestamp="1605809566157" />
+    <state x="220" y="458" key="AndroidCreateResourceFileDialog" timestamp="1605086550591">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="220" y="458" key="AndroidCreateResourceFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605086550591" />
+    <state x="811" y="352" key="FileChooserDialogImpl" timestamp="1606516341944">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="811" y="352" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606516341944" />
+    <state width="617" height="214" key="GridCell.Tab.0.bottom" timestamp="1605803528922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="617" height="214" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605803528922" />
+    <state width="617" height="214" key="GridCell.Tab.0.center" timestamp="1605803528921">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="617" height="214" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605803528921" />
+    <state width="617" height="214" key="GridCell.Tab.0.left" timestamp="1605803528921">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="617" height="214" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605803528921" />
+    <state width="617" height="214" key="GridCell.Tab.0.right" timestamp="1605803528921">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="617" height="214" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605803528921" />
+    <state x="141" y="345" key="SettingsEditor" timestamp="1605811823485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="141" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605811823485" />
+    <state x="444" y="620" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605088882697">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="444" y="620" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605088882697" />
+    <state x="333" y="434" width="613" height="538" key="find.popup" timestamp="1605852443400">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="333" y="434" width="613" height="538" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1605852443400" />
+  </component>
+</project>
